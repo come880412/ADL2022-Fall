@@ -7,7 +7,7 @@ Prof. Yun-Nung Chen "Applied Deep Learning"
 
 ## Homework #2
 1. Multiple-choice
-2. Question Answering (QA) \
+2. Question Answering (QA) 
 - Bonus: slot tagging and intent classification by BERT
 
 ## Homework #3
