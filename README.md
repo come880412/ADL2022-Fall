@@ -1,5 +1,5 @@
 # ADL2022-Fall
-Prof. Yun-Nung Chen "Applied Deep Learning"
+Prof. Yun-Nung (Vivian) Chen "Applied Deep Learning"
 
 ## Homework #1
 1. Intent Classification
