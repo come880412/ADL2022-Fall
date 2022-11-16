@@ -11,7 +11,6 @@ Prof. Yun-Nung (Vivian) Chen "Applied Deep Learning"
 - Bonus: slot tagging and intent classification by BERT
 
 ## Homework #3
-
-## Homework #4
+1. Text Summarization
 
 ## Final Project
